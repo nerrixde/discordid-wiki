@@ -10,6 +10,6 @@
 1. Open the Users profile
 2. Click Copy ID
 3. You now have the ID in your clipboard.
-{% hint style="danger" %}
-Make sure you click the `Copy ID` on a *Profile*, not on a message, server, channel or else. Doing so will result in just getting information from the [Generic Snowflake](about-ids/snowflakes.md)
+{% hint style="warning" %}
+Make sure you click the `Copy ID` on a **Profile**, not on a message, server, channel or else. Doing so will result in just getting information from the [Generic Snowflake](about-ids/snowflakes.md)
 {% endhint %}
