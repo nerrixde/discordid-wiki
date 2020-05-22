@@ -3,8 +3,9 @@
 ### 1. Activate Developer Mode
 
 1. Open User Settings
-2. Open `Behaviour`
-3. Activate Developer Mode
+2. Open `Appearance`
+3. Open `Advanced`
+4. Activate Developer Mode
 
 ### 2. Select the right ID
 1. Open the Users profile
