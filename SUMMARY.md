@@ -1,4 +1,4 @@
 # Table of contents
 
-* [discordid-wiki](README.md)
+* [Get started](README.md)
 
