@@ -2,6 +2,7 @@
 
 * [Get started](README.md)
 * [Discord Lookup](https://discord.id)
+* [Changelog](changelog.md)
 
 ## About IDs
 
@@ -9,6 +10,7 @@
 
 ## Optain IDs
 
-* [Desktop](get-ids/desktop.md)
-* [Android](get-ids/android.md)
-* [iOS](get-ids/ios.md)
+* [Desktop](optain-ids/desktop.md)
+* [Android](optain-ids/android.md)
+* [iOS](optain-ids/ios.md)
+
