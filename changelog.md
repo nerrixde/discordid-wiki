@@ -20,3 +20,13 @@ description: 'https://discord.id'
 If you're searching for an API to get Lookup results, check out [Discord's Api](https://discord.com/developers/docs/resources/user#get-user)
 {% endhint %}
 
+## 20-05-23 \(2nd Update\)
+
+### Added
+
+* Badges \(incl. Icons Badge-Name on Hover\)
+
+### Changed
+
+* Some Desings \(Lookup results\) were re-designed.
+
