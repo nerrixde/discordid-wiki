@@ -14,3 +14,6 @@
 * [Android](optain-ids/android.md)
 * [iOS](optain-ids/ios.md)
 
+## Miscellaneous
+
+* [Official API](https://discord.com/developers/docs/resources/user#get-user)
