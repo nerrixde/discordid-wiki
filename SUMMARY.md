@@ -14,6 +14,10 @@
 * [Android](optain-ids/android.md)
 * [iOS](optain-ids/ios.md)
 
+## About Badges
+
+* [Where is Nitro?](about-badges/nitro.md)
+
 ## Miscellaneous
 
 * [Official API](https://discord.com/developers/docs/resources/user#get-user)
