@@ -19,6 +19,17 @@ description: 'https://discord.id'
 * Username-Emoji-Support
 * Code-Cleanup
 
+## 20-05-23 \(2nd Update\)
+
+### Added
+
+* Badges \(incl. Icons Badge-Name on Hover\)
+
+### Changed
+
+* Some Desings \(Lookup results\) were re-designed.
+
+
 ## 2020-05-23
 
 ### Removed
@@ -34,14 +45,3 @@ description: 'https://discord.id'
 {% hint style="danger" %}
 If you're searching for an API to get Lookup results, check out [Discord's Api](https://discord.com/developers/docs/resources/user#get-user)
 {% endhint %}
-
-## 20-05-23 \(2nd Update\)
-
-### Added
-
-* Badges \(incl. Icons Badge-Name on Hover\)
-
-### Changed
-
-* Some Desings \(Lookup results\) were re-designed.
-
