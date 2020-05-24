@@ -4,6 +4,20 @@ description: 'https://discord.id'
 
 # Changelog
 
+## 2020-05-24
+
+### Changed
+
+* Site is now fully responsive
+
+### Added
+
+* Table-Layout for Lookup-Output
+
+### Todo
+
+* Username-Emoji-Support
+
 ## 2020-05-23
 
 ### Removed
