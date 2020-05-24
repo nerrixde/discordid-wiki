@@ -17,6 +17,7 @@ description: 'https://discord.id'
 ### Todo
 
 * Username-Emoji-Support
+* Code-Cleanup
 
 ## 2020-05-23
 
