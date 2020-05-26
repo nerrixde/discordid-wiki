@@ -8,7 +8,7 @@
 
 * [Generic Snowflakes](about-ids/snowflakes.md)
 
-## Optain IDs
+## Obtain IDs
 
 * [Desktop](optain-ids/desktop.md)
 * [Android](optain-ids/android.md)
