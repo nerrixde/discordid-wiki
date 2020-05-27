@@ -10,9 +10,9 @@
 
 ## Obtain IDs
 
-* [Desktop](optain-ids/desktop.md)
-* [Android](optain-ids/android.md)
-* [iOS](optain-ids/ios.md)
+* [Desktop](obtain-ids/desktop.md)
+* [Android](obtain-ids/android.md)
+* [iOS](obtain-ids/ios.md)
 
 ## About Badges
 
