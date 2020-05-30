@@ -1,4 +1,4 @@
-# Get started
+# Get started | Discord.ID Wiki
 
 {% hint style="info" %}
 You want to help? [Fork the Wiki on Github!](https://github.com/nerrixde/discordid-wiki)
