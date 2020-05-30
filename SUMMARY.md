@@ -19,6 +19,7 @@
 * [Where is Nitro?](about-badges/nitro.md)
 
 ## Miscellaneous
+* [FAQ](misc/faq.md)
 
 * [Official API](https://discord.com/developers/docs/resources/user#get-user)
 
