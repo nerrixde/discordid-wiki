@@ -5,3 +5,6 @@
 
 ### Will there be a way to get details such as Server Logo, Server Icon?
 - No. Beiside some technical impossiblities, it's not what discord.id should be about.
+
+### Will there be a way to lookup users by username?
+- No. This is technically not possible nor supported by Discord.
