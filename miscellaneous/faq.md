@@ -21,7 +21,7 @@ The `Early Supporter` Badge is shown on discord.id when the user had Nitro befor
 
 * No. This is technically not possible nor supported by Discord.
 
-### Is there an API?
+## Is there an API?
 
 * [Yes](https://discord.com/developers/docs/resources/user#get-user).
 
