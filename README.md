@@ -13,6 +13,6 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 {% hint style="info" %}
 This Wiki is still under construction and might contain incomplete information  
   
-You want to help? [Fork the Wiki on Github!](https://github.com/nerrixde/discordid-wiki)
+You want to help? [Fork the Wiki on Github](https://github.com/nerrixde/discordid-wiki)!
 {% endhint %}
 
