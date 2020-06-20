@@ -12,10 +12,6 @@
 ## Miscellaneous
 
 * [Changelog](miscellaneous/changelog.md)
-* [FAQ](miscellaneous/faq/README.md)
-  * [Official API](https://discord.com/developers/docs/resources/user#get-user)
-
----
-
-* [Generic Snowflakes](snowflakes.md)
+* [FAQ](miscellaneous/faq.md)
+* [Generic Snowflakes](miscellaneous/snowflakes.md)
 
