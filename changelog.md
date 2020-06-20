@@ -29,7 +29,6 @@ description: 'https://discord.id'
 
 * Some Desings \(Lookup results\) were re-designed.
 
-
 ## 2020-05-23
 
 ### Removed
@@ -45,3 +44,4 @@ description: 'https://discord.id'
 {% hint style="danger" %}
 If you're searching for an API to get Lookup results, check out [Discord's Api](https://discord.com/developers/docs/resources/user#get-user)
 {% endhint %}
+
