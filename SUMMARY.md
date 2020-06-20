@@ -2,7 +2,6 @@
 
 * [Get started](README.md)
 * [Discord Lookup](https://discord.id)
-* [Changelog](changelog.md)
 
 ## Obtain IDs
 
@@ -12,6 +11,7 @@
 
 ## Miscellaneous
 
+* [Changelog](miscellaneous/changelog.md)
 * [FAQ](miscellaneous/faq/README.md)
   * [Generic Snowflakes](miscellaneous/faq/snowflakes.md)
   * [Where is Nitro?](miscellaneous/faq/nitro.md)
