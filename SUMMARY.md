@@ -15,5 +15,5 @@
 * [FAQ](miscellaneous/faq/README.md)
   * [Generic Snowflakes](miscellaneous/faq/snowflakes.md)
   * [Where is Nitro?](miscellaneous/faq/nitro.md)
-* [Official API](https://discord.com/developers/docs/resources/user#get-user)
+  * [Official API](https://discord.com/developers/docs/resources/user#get-user)
 
