@@ -4,7 +4,11 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 
 # Get started
 
-{% page-ref page="miscellaneous/snowflakes.md" %}
+{% hint style="success" %}
+#### New: Bot Invites
+
+👉 Just visit **discord.id/bot/**_BotIdHere_ ****and you'll be redirected to Discord's Add-a-Bot-Page
+{% endhint %}
 
 {% page-ref page="miscellaneous/faq.md" %}
 
