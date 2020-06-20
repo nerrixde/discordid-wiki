@@ -13,7 +13,6 @@
 
 * [Changelog](miscellaneous/changelog.md)
 * [FAQ](miscellaneous/faq/README.md)
-  * [Where is Nitro?](miscellaneous/faq/nitro.md)
   * [Official API](https://discord.com/developers/docs/resources/user#get-user)
 
 ---
