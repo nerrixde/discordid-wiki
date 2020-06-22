@@ -14,6 +14,6 @@
 3. You now have the ID in your clipboard.
 
 {% hint style="warning" %}
-Make sure you click the `Copy ID` on a **Profile Picture** \(or Username\), not on a message, server, channel or else. Doing so will result in just getting information from the [Generic Snowflake](https://github.com/nerrixDE/discordid-wiki/tree/653b0890b2d4c85152672115fa7d09808541eea4/get-ids/about-ids/snowflakes.md)
+Make sure you click the `Copy ID` on a **Profile Picture** \(or Username\), not on a message, server, channel or else. Doing so will result in just getting information from the [Generic Snowflake](https://wiki.discord.id/miscellaneous/snowflakes)
 {% endhint %}
 
