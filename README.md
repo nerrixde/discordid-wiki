@@ -10,7 +10,7 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 👉 Just visit **discord.id/bot/**BotIdHere ****and you'll be redirected to Discord's Add-a-Bot-Page
 {% endhint %}
 
-{% hint style="warn" %}
+{% hint style="warning" %}
 I'm aware that special characters in usernames are not shown correctly, I'm working on a fix.
 {% endhint %}
 
