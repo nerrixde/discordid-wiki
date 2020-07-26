@@ -5,22 +5,18 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 # Get started
 
 {% hint style="success" %}
-#### New: Bot Invites
+## New: Bot Invites
 
-👉 Just visit **discord.id/bot/**BotIdHere ****and you'll be redirected to Discord's Add-a-Bot-Page
+👉 Just visit **discord.id/bot/**BotIdHere _\*\*_and you'll be redirected to Discord's Add-a-Bot-Page
 {% endhint %}
 
-{% hint style="warning" %}
-I'm aware that special characters in usernames are not shown correctly, I'm working on a fix.
-{% endhint %}
+
 
 {% page-ref page="miscellaneous/faq.md" %}
 
 {% hint style="info" %}
-This Wiki is still under construction and might contain incomplete information  
-  
+This Wiki is still under construction and might contain incomplete information
+
 You want to help? [Fork the Wiki on Github](https://github.com/nerrixde/discordid-wiki)!
 {% endhint %}
-
-
 

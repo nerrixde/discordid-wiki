@@ -4,6 +4,13 @@ description: 'https://discord.id'
 
 # Changelog
 
+## 2020-07-26
+
+### Fixes
+
+* Unicode / special characters in Usernames are now fully parsed 🥳
+* Added "UTC" to timestamps to clarify timezone shown.
+
 ## 2020-05-24
 
 ### Changed
