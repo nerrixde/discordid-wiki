@@ -8,3 +8,6 @@
 
 ### Will there be a way to lookup users by username?
 - No. This is technically not possible nor supported by Discord.
+
+### Can you help finding my friend back?
+- No.
