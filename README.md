@@ -7,7 +7,7 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 {% hint style="success" %}
 ## New: Bot Invites
 
-👉 Just visit **discord.id/bot/**BotIdHere _\*\*_and you'll be redirected to Discord's Add-a-Bot-Page
+👉 Just visit **discord.id/bot/**BotIdHere** and you'll be redirected to Discord's Add-a-Bot-Page
 {% endhint %}
 
 
