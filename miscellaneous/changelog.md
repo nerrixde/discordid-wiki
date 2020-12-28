@@ -4,6 +4,18 @@ description: 'https://discord.id'
 
 # Changelog
 
+## 2020-31-28
+
+### Complete rewrite 🎉
+
+#### Fixes
+
+* Snowflake Lookup working again
+* Site now fully responsive
+* More beautiful design 
+* Improved accessiblity
+* Added very nice captcha
+
 ## 2020-07-26
 
 ### Fixes
