@@ -4,23 +4,23 @@ description: 'https://discord.id'
 
 # Changelog
 
-## 2020-31-28
+## 2020-12-28
 
 ### Complete rewrite 🎉
 
 #### Fixes
 
 * Snowflake Lookup working again
-* Site now fully responsive
+* Site is now fully responsive
 * More beautiful design 
-* Improved accessiblity
-* Added very nice captcha
+* Improved accessibility
+* Added a very nice captcha
 
 ## 2020-07-26
 
 ### Fixes
 
-* Unicode / special characters in Usernames are now fully parsed 🥳
+* Unicode / special characters in usernames are now fully parsed 🥳
 * Added "UTC" to timestamps to clarify timezone shown.
 
 ## 2020-05-24
@@ -46,7 +46,7 @@ description: 'https://discord.id'
 
 ### Changed
 
-* Some Desings \(Lookup results\) were re-designed.
+* Some Designs \(Lookup results\) were re-designed.
 
 ## 2020-05-23
 
@@ -61,6 +61,5 @@ description: 'https://discord.id'
 ### Important
 
 {% hint style="danger" %}
-If you're searching for an API to get Lookup results, check out [Discord's Api](https://discord.com/developers/docs/resources/user#get-user)
+If you're searching for an API to get Lookup results, check out [Discord's API](https://discord.com/developers/docs/resources/user#get-user)
 {% endhint %}
-

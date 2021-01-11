@@ -17,4 +17,3 @@ This Wiki is still under construction and might contain incomplete information
 
 You want to help? [Fork the Wiki on Github](https://github.com/nerrixde/discordid-wiki)!
 {% endhint %}
-
