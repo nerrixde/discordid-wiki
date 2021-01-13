@@ -1,16 +1,16 @@
-# Table of contents
+# Tabla de Contenido
 
-* [Get started](README.md)
-* [Discord Lookup](https://discord.id)
+* [Empezar](README.md)
+* [Discord Buscar](https://discord.id)
 
-## Obtain IDs
+## Obtener identificaciones
 
 * [Desktop](obtain-ids/desktop.md)
 * [Android](obtain-ids/android.md)
 * [iOS](obtain-ids/ios.md)
 
-## Miscellaneous
+## Diverso
 
-* [Changelog](miscellaneous/changelog.md)
+* [Registro de Cambios](miscellaneous/changelog.md)
 * [FAQ](miscellaneous/faq.md)
-* [Generic Snowflakes](miscellaneous/snowflakes.md)
+* [Copos de nieve genéricos](miscellaneous/snowflakes.md)
