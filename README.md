@@ -1,19 +1,19 @@
 ---
-description: 'Discord Lookup: Discord.ID Documentation and Wiki'
+la descripción: 'Discord Buscar: Discord.ID Documentación y Wiki'
 ---
 
-# Get started
+# Empezar
 
 {% hint style="success" %}
-## Bot Invites
+## Bot Invita
 
-👉 Just visit **discord.id/bot/bot-id-here** and you'll be redirected to Discord's Add-a-Bot-Page
+👉 Solo visita **discord.id/bot/bot-id-here** y serás redirigido a Discord's Agregar-un-Bot página
 {% endhint %}
 
 {% page-ref page="miscellaneous/faq.md" %}
 
 {% hint style="info" %}
-This Wiki is still under construction and might contain incomplete information
+Este Wiki aún está en construcción y puede contener información incompleta.
 
-You want to help? [Fork the Wiki on Github](https://github.com/nerrixde/discordid-wiki)!
+¿Quieres ayudar? [¡Bifurca el Wiki en GitHub!](https://github.com/nerrixde/discordid-wiki)!
 {% endhint %}
