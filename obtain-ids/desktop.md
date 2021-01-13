@@ -1,18 +1,18 @@
-# Desktop
+Escritorio
 
-## 1. Activate Developer Mode
+1. Activar el modo de desarrollador
 
-1. Open User Settings
-2. Open `Appearance`
-3. Scroll Down
-4. Activate Developer Mode
+  1. Abrir configuración de usuario
+  2. Apariencia abierta
+  3. Desplazarse hacia abajo
+  4. Activar el `modo de desarrollador`
 
-## 2. Select the right ID
+2. Seleccione la ID correcta
 
-1. Right click on the users **avatar**.
-2. Click Copy ID
-3. You now have the ID in your clipboard.
+  1. Haga clic derecho en el avatar de los usuarios.
+  2. Haga clic en Copiar ID
+  3. Ahora tiene la identificación en su portapapeles.
 
 {% hint style="warning" %}
-Make sure you click `Copy ID` on a **Profile Picture** \(or Username\), not on a message, server, channel or else. Doing so will result in just getting information from the [Generic Snowflake](https://wiki.discord.id/miscellaneous/snowflakes)
+Asegúrese de hacer clic en `Copiar ID` en una imagen de perfil (o nombre de usuario), no en un mensaje, servidor, o canal. Si lo hace, solo obtendrá información del [copo de nieve genérico](https://wiki.discord.id/miscellaneous/snowflakes)
 {% endhint %}
