@@ -15,5 +15,5 @@ la descripción: 'Discord Buscar: Discord.ID Documentación y Wiki'
 {% hint style="info" %}
 Este Wiki aún está en construcción y puede contener información incompleta.
 
-¿Quieres ayudar? [¡Bifurca el Wiki en GitHub!](https://github.com/nerrixde/discordid-wiki)!
+¿Quieres ayudar? [¡Bifurca el Wiki en GitHub!](https://github.com/nerrixde/discordid-wiki)
 {% endhint %}
