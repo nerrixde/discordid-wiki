@@ -16,3 +16,4 @@
 {% hint style="warning" %}
 Make sure you click `Copy ID` on a **Profile Picture** \(or Username\), not on a message, server, or channel. Doing so will result in just getting information from the [Generic Snowflake](https://wiki.discord.id/miscellaneous/snowflakes)
 {% endhint %}
+
