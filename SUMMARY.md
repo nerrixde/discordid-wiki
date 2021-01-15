@@ -2,6 +2,7 @@
 
 * [Get started](README.md)
 * [Discord Lookup](https://discord.id)
+* [Forum / Get Help](https://github.com/nerrixDE/discordid-wiki/discussions)
 
 ## Obtain IDs
 
