@@ -2,7 +2,7 @@
 
 ### Where is Nitro?
 
-* **Short answer**: ****Inaccessible
+* **Short answer**: _\*\*_Inaccessible
 * **Long answer**: Discord's API does not allow me to receive the Nitro status of an user. The requested user would have to authorize Discord.ID \(Oauth2, _like when you add a Bot_\) in order to get the information.
 
 {% hint style="info" %}
@@ -24,3 +24,4 @@ The `Early Supporter` badge is shown on discord.id if the user had Nitro before 
 ## Is there an API?
 
 * [Yes](https://discord.com/developers/docs/resources/user#get-user). Use it and don't try to use discord.id as an API.
+

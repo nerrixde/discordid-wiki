@@ -7,3 +7,4 @@
 {% hint style="info" %}
 The creation date is the timestamp when a channel, message, server or else was created.
 {% endhint %}
+
