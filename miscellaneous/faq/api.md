@@ -16,7 +16,17 @@ description: 'Spoiler: No but yes'
 ### ⚠ Abusing discord.id as an API will get your IP banned.
 {% endhint %}
 
-## 
+
+
+## Prefill
+
+{% hint style="info" %}
+### This prefills the input ID field:`https://discord.id/?prefill=DiscordID`
+{% endhint %}
+
+### 
+
+\`\`
 
 
 
