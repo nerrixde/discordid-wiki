@@ -13,6 +13,7 @@
 ## Miscellaneous
 
 * [Changelog](miscellaneous/changelog.md)
-* [FAQ](miscellaneous/faq.md)
+* [FAQ](miscellaneous/faq/README.md)
+  * [API](miscellaneous/faq/api.md)
 * [Generic Snowflakes](miscellaneous/snowflakes.md)
 

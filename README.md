@@ -10,7 +10,7 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 👋 Feel free to ask questions, report Bugs or seek help in [Github Discussions](https://github.com/nerrixDE/discordid-wiki/discussions)
 {% endhint %}
 
-{% page-ref page="miscellaneous/faq.md" %}
+{% page-ref page="miscellaneous/faq/" %}
 
 {% hint style="info" %}
 ## Bot Invites
