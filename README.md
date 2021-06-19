@@ -19,7 +19,7 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 {% endhint %}
 
 {% hint style="info" %}
-
+## Wiki
 
 This Wiki is still under construction and might contain incomplete information
 
