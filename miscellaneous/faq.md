@@ -19,7 +19,7 @@ The `Early Supporter` badge is shown on discord.id if the user had Nitro before 
 
 ## Will there be a way to lookup users by username?
 
-* It is already possibe by adding someone as friend, going to pending friend invites and copying the person's ID.
+* It is already possibe by adding someone as friend, going to pending friend invites and copying the person's ID, however not via discord.id and this won't happen.
 
 ## Is there an API?
 
