@@ -13,9 +13,9 @@ description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 {% page-ref page="miscellaneous/faq/" %}
 
 {% hint style="info" %}
-## Bot Invites
+## Donate
 
-👉 Just visit **discord.id/bot/BotIdHere** and you'll be redirected to Discord's Add-a-Bot-Page
+❤ Donate to keep this site running ad-free and get a vanity invite: https://discord.id/donate
 {% endhint %}
 
 {% hint style="info" %}
