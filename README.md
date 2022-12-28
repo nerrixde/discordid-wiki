@@ -2,6 +2,8 @@
 description: 'Discord Lookup: Discord.ID Documentation and Wiki'
 ---
 
+### PRs: welcome!
+
 # Get started
 
 {% hint style="success" %}
